@@ -9,7 +9,7 @@ class Solution(object):
     def merge(self, nums1, m, nums2, n):
         """
         :type nums1: List[int]
-        :type m: int, number of elements in nums1
+        :type m: int, number of elements in nums1, length is actually m+n!
         :type nums2: List[int]
         :type n: int, number of elements in nums2
         :rtype: None Do not return anything, modify nums1 in-place instead.
