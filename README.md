@@ -1,6 +1,6 @@
-# DS in Action
+# myLeetcode
 
-Welcome to **DS in Action**, a repository dedicated to my solutions to LeetCode problems. The goal is to enhance my problem-solving skills and prepare for coding interviews!
+Welcome to **myLeetcode**, a repository dedicated to my solutions to LeetCode problems. The goal is to enhance my problem-solving skills and prepare for coding interviews!
 
 ## 📂 Repository Structure
 
